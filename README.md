@@ -9,7 +9,7 @@
   - CSS
   - JavaScript
 <br>
-<h2>Imagens ilustrativas do site:</h2>
+<h2>Imagens ilustrativas do projeto:</h2>
   
 <img src="https://github.com/KaueSverberi/Projeto-mario/blob/main/img/tela%20celular.png?raw=true" alt="tela celular" heigth="250px" width="240px"> <img src="https://github.com/KaueSverberi/Projeto-mario/blob/main/img/tela%20computador.png?raw=true" alt="tela computador" heigth="1850px" width="535px">
   
